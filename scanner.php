@@ -1,0 +1,7 @@
+<?PHP
+
+$a = scandir('data/');
+
+
+
+?>
