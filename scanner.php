@@ -1,7 +1,6 @@
+  
 <?PHP
 
-$a = scandir('data/');
-
-
-
+$a = scandir('assets/videos/');
+sort($a);
 ?>
